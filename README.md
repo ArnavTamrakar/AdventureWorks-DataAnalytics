@@ -52,7 +52,7 @@ For the analysis of customer data, these questions have been answered:
 3. At which point of time has there been highest number of new customers?
 4. What is the customer returning rate?
 
-## SQL Codes
+### SQL Codes
 All the order related data has been filtered using this:
 ```
 SELECT 
@@ -93,4 +93,4 @@ FROM TotalCustomers, TotalReturningCustomers;
 ![image](https://github.com/user-attachments/assets/53266aa7-a41d-4041-8167-61d2dab82f1f)
 
 ## Conclusion
-From this project, I've learned the basics of Power BI and how SQL and Power BI can be integrated together. As of now I have done analysis on Order and Customer data only, but in the future I plan on analyzing sales data and whatever interests me. Thanks for going over my project and im always open for feedback on how I can improve it. Cheers!
+From this project, I've learned the basics of Power BI and how SQL and Power BI can be integrated together. As of now I have done analysis on Order and Customer data, in the future I plan on analyzing sales data and whatever interests me. Thanks for going over my project and im always open for feedback. Cheers!!
