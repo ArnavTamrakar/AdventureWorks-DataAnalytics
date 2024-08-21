@@ -43,7 +43,8 @@ FROM
 Rest of the data has been filtered using the Power BI interface.
 
 ### Snippet of the dashboard
-![image](https://github.com/user-attachments/assets/0989ce90-c347-4a82-be52-abf61877d26f)
+![image](https://github.com/user-attachments/assets/09cd1b6c-d807-4bc7-b036-d849be1d5d51)
+
 
 ## Customer Data Analysis
 For the analysis of customer data, these questions have been answered:
@@ -90,7 +91,8 @@ SELECT
 FROM TotalCustomers, TotalReturningCustomers;
 ```
 ### Snippet of the dashboard
-![image](https://github.com/user-attachments/assets/53266aa7-a41d-4041-8167-61d2dab82f1f)
+![image](https://github.com/user-attachments/assets/193f5c72-6e17-48e4-b5b4-eba1ee01446d)
+
 
 ## Conclusion
 From this project, I've learned the basics of Power BI and how SQL and Power BI can be integrated together. As of now I have done analysis on Order and Customer data, in the future I plan on analyzing sales data and whatever interests me. Thanks for going over my project and im always open for feedback. Cheers!!
